@@ -1,0 +1,198 @@
+*{
+       margin:0px;
+       padding:0px;
+}
+.bgimage{
+        background-image: url('sports1.jpg');
+        background-size: 100% 100%;
+        width:100%;
+        height:100vh;
+}
+.menu{
+  width: 100%;
+  height: 100px;
+  background-color: rgba(0, 0, 0,0.5);
+}
+.leftmenu{
+  width:15%;
+  line-height:100px;
+  float:left;
+}
+#img1{
+  border-radius: 50px;
+  height:70px;
+  width: 70px;
+  margin-top:10px;
+
+}
+.leftmenu h4{
+
+  padding-left:70px;
+  font-weight: bold;
+  color:white;
+  font-size: 22px;
+}
+.rightmenu{
+  width:85%;
+ height:100px;
+ float:right;
+}
+.rightmenu ul{
+  margin-left:200px;
+}
+
+.rightmenu ul li:hover{
+  color:orange;
+}
+.rightmenu ul li {
+  display: inline-block;
+  font-size:25px;
+  list-style: none;
+  color:white;
+  font-weight: bold;
+  line-height:90px;
+  margin-left:40px;
+
+  text-transform:uppercase;
+}
+
+.text{
+  text-align: center;
+  margin-top:340px;
+  width:100%;
+
+}
+.text h4{
+  font-size:14px;
+}
+.text h1{
+  font-size:40px;
+  font-weight:bold;
+  text-shadow: 5px 5px 5px black;
+  color:silver;
+
+}
+.text1{
+  width:100%;
+  height:100px;
+}
+#imgp{
+  border-radius:60%;
+  height:100%;
+  width:50%;
+    margin-left:200px;
+}
+#imgp1{
+  border-radius:60%;
+  height:35%;
+  width:50%;
+  margin-left:90px;
+}
+#imgp2{
+  border-radius:60%;
+  height:30%;
+  width:45%;
+
+}
+.menu2{
+  float:left;
+  background-color:rgba(0, 0, 0,0.3);;
+  margin-top:10px;
+}
+.menu2 table,tr,td{
+
+  margin-left:50px;
+}
+ td{
+  width:25%;
+  height:25%;
+    margin-left:50px;
+}
+#text2{
+  font-weight:bold;
+  color:white;
+  margin-left:250px;
+  text-shadow: 5px 5px 5px solid black;
+}
+#text3{
+  font-weight:bold;
+  color:white;
+  margin-left:150px;
+  text-shadow: 5px 5px 5px solid black;
+}
+#text4{
+  font-weight:bold;
+  color:white;
+  margin-left:50px;
+  text-shadow: 5px 5px 5px solid black;
+}
+.field{
+  width:50%;
+  background-color:rgba(0, 0, 0,0.3);;
+}
+.a9{
+    text-align:left;
+    background-color: rgba(0, 0, 0, 0.1);
+    text-shadow: 5px 5px 5px black;
+    font-size:50px;
+    color:lightblue;
+}
+.container {
+  margin-top:50px;
+  margin-left:400px;
+  width: 400px;
+  padding: 16px;
+  background-color:rgba(0, 0, 0, 0.7);;
+}
+#a13{
+   margin-left:16px;
+  width:40px;
+  height:40px;
+  margin-top:10px;
+  border-radius:50%;
+  border:0;
+}
+#a11 {
+  background-color: red;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+#a1{
+  height:100px;
+  width:130px
+  float:left;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin-top:50 px;
+  margin-left:50px;
+  transition: 0.3s;
+  width: 20%;
+  background-color: #ffcce6;
+  float:left;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.c {
+  padding: 0.8px 22px;
+}
+.text45{
+  float:left;
+  margin-top:100px;
+  width:100%;
+}
